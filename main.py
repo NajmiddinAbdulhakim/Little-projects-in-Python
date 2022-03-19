@@ -1,1 +1,2 @@
-print("bismillah")
+print("Bismillah")
+print("Alhamdullilah")

@@ -1,2 +1,0 @@
-print("Bismillah")
-print("Alhamdullilah")

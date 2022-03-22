@@ -1,0 +1,1 @@
+print('kalla'[0])

@@ -1,1 +1,0 @@
-print('kalla'[0])
